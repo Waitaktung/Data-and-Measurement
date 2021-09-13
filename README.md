@@ -1,4 +1,4 @@
-# Ethical Concerns of using Predictive Policing Softwares, Course work in University of Mannheim (2019, Autumn) 
+# Ethical Concerns of using Predictive Policing Softwares, Course work in University of Mannheim (2019, Autumn) Grade: 1.0
 
 Keywords: Predictive Analytics, Privacy Intrusion, Racism and Transparency
 
